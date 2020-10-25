@@ -26,7 +26,7 @@ Personal project for learning purposes.
 # 3. Post Processing
 ![3](https://drive.google.com/uc?id=1RTtEhK7VKB45S11Dzwripn6y0cZffpY8&export=download)
 
-# 4. Level Editor
+# 4. Editor
 ![4](https://drive.google.com/uc?id=1QBiFJ6KJgdn81gpfadJ1C2tFR7AkVHoi&export=download)
 
 # 5. Camera
